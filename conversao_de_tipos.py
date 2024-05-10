@@ -47,3 +47,21 @@ idade ="28"
 print("Preço:", float(preco))
 
 print("Idade:", int(idade))
+
+# Erro de Conversão
+
+preco ="Python"
+
+#print(float(preco)) # erro na conversão de uma string que não contém números.
+
+# Tipo de Dados
+preco = 10.50
+idade = str(preco)
+
+print("Tipo float:",type(preco))
+
+print("Tipo String:", type(idade))
+
+preco = 10
+
+print("Tipo Inteiro:", type(preco))
