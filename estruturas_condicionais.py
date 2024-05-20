@@ -6,7 +6,8 @@ saldo = 2000.0
 saque = 500
 cheque_especial = 450
 # Adicione um input para escolher o tipo de conta
-tipo_conta = int(input("Informe o tipo de conta: \n [1] Conta Normal \n [2] Conta Universitária: "))
+tipo_conta = int(input(
+    "Informe o tipo de conta: \n [1] Conta Normal \n [2] Conta Universitária: "))
 
 if tipo_conta == 1:
     conta_normal = True
@@ -32,18 +33,15 @@ elif opcao == 2:
 
 else:
     SystemExit("Opção Inválida")
-    
+
 
 if conta_normal:
-    if saldo>= saque:
-        print("Saque Realizado com sucesso!") 
-        
-    elif saque <=(saldo + cheque_especial):
+    if saldo >= saque:
+        print("Saque Realizado com sucesso!")
+
+    elif saque <= (saldo + cheque_especial):
         print("Saque realizado com uso do cheque especial")
-        
+
 elif conta_universitaria:
     if saldo >= saque:
         print("Saque Realizado com sucesso!")
-        
-     
-                   

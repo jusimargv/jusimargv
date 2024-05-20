@@ -1,0 +1,32 @@
+{
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [
+    "AEIOU",
+    "cheque",
+    "contador",
+    "especial",
+    "exiba",
+    "exibindo",
+    "inteiro",
+    "letra",
+    "normal",
+    "numero",
+    "número",
+    "números",
+    "para",
+    "Receba",
+    "Sacando",
+    "Sacar",
+    "Sair",
+    "tabuada",
+    "teclado",
+    "texto",
+    "valor",
+    "VOGAIS"
+  ],
+  "ignoreWords": [],
+  "import": []
+}

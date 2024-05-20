@@ -20,4 +20,3 @@ print(saldo is not limite)
 print(saldo is limite is not saque)
 
 print(saldo is not limite)
-

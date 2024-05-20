@@ -5,11 +5,11 @@ limite = 100
 
 print(saldo >= saque)
 
-print(saque<= limite)
+print(saque <= limite)
 
-print(saldo>= saque and saque <= limite)
+print(saldo >= saque and saque <= limite)
 
-#operador OR
+# operador OR
 
 saldo = 1000
 saque = 200
@@ -17,12 +17,12 @@ limite = 100
 
 print(saldo >= saque)
 
-print(saque<= limite)
+print(saque <= limite)
 
-print(saldo>= saque or saque <= limite)
+print(saldo >= saque or saque <= limite)
 
 # operador de Negação
-contatos_emergencia = [1,2,3]
+contatos_emergencia = [1, 2, 3]
 
 print(not 1000 > 500)
 
@@ -49,7 +49,8 @@ print(True or False)
 
 saldo1 = saldo >= saque and saque <= limite or conta_especial and saldo >= saque
 
-saldo2 =(saldo >= saque and saque <= limite) or (conta_especial and saldo >= saque)
+saldo2 = (saldo >= saque and saque <= limite) or (
+    conta_especial and saldo >= saque)
 
 print(saldo1)
 
