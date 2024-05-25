@@ -28,8 +28,8 @@
 - ⚡ Fun fact **Um fato que eu sempre achei muito engraçado, depopis de anos é que sempre fui autodidata, sempre usa isso para aprender como se fazia trabalhas na area de hotelaria, até que percebi, que poderia voltar isso para a area de tecnologia e simplismente está dando muito certo rsrsrs, eu não fui capaz de exergar isso mais cedo, agora é correr atrás do tempo perdido.**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START --->
+<!-- BLOG-POST-LIST:END --->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
