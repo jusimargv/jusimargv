@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jusimargv" alt="jusimargv" /></a> </p>
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="jusimar-alves" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/jusimar-alves?trk=profile-badge">Jusimar Alves Da Silva</a></div>
+              
+
 <p align="left"> <a href="https://twitter.com/jusimargv" target="blank"><img src="https://img.shields.io/twitter/follow/jusimargv?logo=twitter&style=for-the-badge" alt="jusimargv" /></a> </p>
 
 - 🔭 I’m currently working on [Santander Bootcamp Developer](dio.me)
