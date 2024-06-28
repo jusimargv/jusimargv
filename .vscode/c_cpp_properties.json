@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "\"includePath\": [",
+                "    \"\\\\\\\\wsl$\\\\Ubuntu\\\\usr\\\\include\\\\c++\\\\11\"",
+                "]"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ]
+        }
+    ],
+    "version": 4
+}
